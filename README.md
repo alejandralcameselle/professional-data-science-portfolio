@@ -10,4 +10,4 @@ This repository contains data science projects that showcase a range of technica
 ### Projects
 1. **Malaria Detection**  
    - A deep learning project to classify parasitized and uninfected blood cells using CNNs.
-   - [View Project Details](malaria-detection/README.md)
+   - [View Project Details](malaria_detection/README.md)
