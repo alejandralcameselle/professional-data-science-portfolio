@@ -32,4 +32,4 @@ The model achieved the following results on the test dataset:
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/professional-data-science-portfolio.git
-   cd professional-data-science-portfolio/malaria-detection
+   cd professional-data-science-portfolio/malaria_detection
